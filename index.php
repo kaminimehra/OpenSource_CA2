@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    
+
     <title>Home Page - Online Birth Certificate System</title>
 
 
@@ -24,7 +24,7 @@
         </div>
     </div>
 
-   
+
 
     <!-- ***** Header Area Start ***** -->
     <header class="header_area" id="header">
@@ -39,16 +39,16 @@
                                 <li class="nav-item active">
                                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                                 </li>
-                             
+
                                 <li class="nav-item">
                                     <a class="nav-link" href="user/login.php">User</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="admin/login.php">Admin</a>
                                 </li>
-                             
+
                             </ul>
-                         
+
                         </div>
                     </nav>
                 </div>
@@ -59,15 +59,15 @@
 
     <!-- ***** Hero Area Start ***** -->
     <div class="fancy-hero-area bg-img bg-overlay animated-img" style="background-image: url(img/bg-img/hero-1.jpg);">
-       
+
     </div>
     <!-- ***** Hero Area End ***** -->
 
-  
+
 
     <!-- ***** Footer Area Start ***** -->
     <footer class="fancy-footer-area fancy-bg-dark">
-      
+
         <!-- Footer Copywrite -->
         <div class="footer-copywrite-area">
             <div class="container h-100">
@@ -87,7 +87,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Onlin
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="admin/login.php">Admin</a></li>
                                         <li><a href="user/login.php">User</a></li>
-                                      
+
                                     </ul>
                                 </nav>
                             </div>
