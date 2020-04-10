@@ -2,7 +2,7 @@ How to run the online Birth Certificate System Project
 
 1.Download the zip file
 
-2.Extract the file and copy obcs folder
+2.Extract the file and copy folder 
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
@@ -12,7 +12,17 @@ How to run the online Birth Certificate System Project
 
 6.Import obcsdb.sql file
 
-7.Run the script http://localhost/obcs
+7.Run this project.
+
+
+Admin Credential
+Username: admin
+Password: 123
+
+User credential
+Username: 9915249086
+Password: 789@
+
 
 8.Click on user tab and create ur account.
 
@@ -22,9 +32,6 @@ How to run the online Birth Certificate System Project
 
 11. Go to admin tab
 
-Admin Credential
-Username: admin
-Password: 123
 
 12. Click on view option in total application, there u will find ur form then it's ur wish to verify or reject,
      also u can export data to excel.
